@@ -2,3 +2,4 @@ optConfig:
   optOutStrategy: true
 action: issue
 requireApproval: false
+approvalCount: 0
